@@ -1,0 +1,14 @@
+{
+	"My Comment Style For PHP": {
+		"prefix": "php-comment",
+		"body": [
+			"/**",
+			" * ",
+			" * ",
+			" * ",
+			" * ",
+			" **/"
+		],
+		"description": "My Comment Style For PHP"
+	}
+}
